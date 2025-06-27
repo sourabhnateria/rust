@@ -1,0 +1,10 @@
+[package]
+name = "req_middleware"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+reqwest = { version = "0.11", features = ["json"] }
+reqwest-middleware = "0.2"
+reqwest-retry = "0.2"
+tokio = { version = "1", features = ["full"] }
