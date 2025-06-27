@@ -1,0 +1,11 @@
+[package]
+name = "sign"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lopdf = "0.27"
+image = "0.24"
+imageproc = "0.23"
+rusttype = "0.9"
+flate2 = "1.0"

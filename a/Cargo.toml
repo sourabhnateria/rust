@@ -1,0 +1,14 @@
+[package]
+name = "a"
+version = "0.1.0"
+edition = "2024"
+
+
+[dependencies]
+clap = { version = "4.4", features = ["derive"] }
+image = "0.24"
+lopdf = "0.31" # Or your current version
+rusttype = "0.9"
+serde = { version = "1.0", features = ["derive"] }
+toml = "0.8"
+chrono = "0.4" # Added for current date

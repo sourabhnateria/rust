@@ -1,0 +1,32 @@
+[to]
+Name = "ASAFASHF"
+address = "123 Anywhere St, Any City, ST 12345"
+
+[invoice]
+invoice_number = "00000"
+date = "25 may 2025"
+currency = "$"  # Can be changed to "€", "£", etc.
+ 
+[items]
+headers = ["NO", "DESCRIPTION", "QTY", "PRICE", "TOTAL"]
+rows = [
+    { no = "1", description = "Any", qty = "10", price = "600", total = "60045" },
+    { no = "2", description = "Project Draft", qty = "10", price = "2,400", total = "2,44500" },
+    { no = "3", description = "Implementation", qty = "40", price = "2,500", total = "2,4545500" },
+    { no = "4", description = "Additional Supplies", qty = "1", price = "750", total = "745450" },
+    { no = "5", description = "Monthly meeting", qty = "2", price = "4,000", total = "4,054500" }
+]
+
+[SubTotal]
+subtotal_value = "7,950"
+vat_percentage = 20.0    # VAT percentage (e.g., 10.0 for 10%, 0.0 for no VAT)
+vat_value = "795"
+discount_value = "1000"
+grand_total_value = "8,245"
+
+[PaymentMethod]
+bank_name = "Bank Name: xyz"
+account_number = "Account Number: 000-000-7890"
+
+[TermsandConditions]
+content = "Please send payment within 30 days of receiving this invoice."

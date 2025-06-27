@@ -1,0 +1,8 @@
+name = "John Doe"
+address = "123 Rabbit Hole Lane, Wonderland"
+company = "Save Efforts LLC and Qualyval Ltd"
+signature_text = "Johndoe"
+font_filename = "LovelyHome-9aBZ.ttf"
+signature_render_font_size = 20.0
+signature_image_x_offset = -15.0 
+signature_image_y_adjust = -22.0 

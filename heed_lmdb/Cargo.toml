@@ -1,0 +1,10 @@
+[package]
+name = "heed_lmdb"
+version = "0.1.0"
+edition = "2024"
+
+
+[dependencies]
+heed = "0.20"
+tempfile = "3"
+byteorder = "1.5"

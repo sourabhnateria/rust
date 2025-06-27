@@ -1,0 +1,12 @@
+D:\rust\merge\target\debug\deps\libistring-fb07ca25541454d5.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\common.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\istring.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\small.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\ibytes.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\tiny.rs
+
+D:\rust\merge\target\debug\deps\libistring-fb07ca25541454d5.rlib: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\common.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\istring.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\small.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\ibytes.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\tiny.rs
+
+D:\rust\merge\target\debug\deps\istring-fb07ca25541454d5.d: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\common.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\istring.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\small.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\ibytes.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\tiny.rs
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\common.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\istring.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\small.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\ibytes.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\istring-0.3.4\src\tiny.rs:

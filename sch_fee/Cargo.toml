@@ -1,0 +1,12 @@
+[package]
+name = "sch_fee"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lopdf = "0.31.0" # Or your current version
+regex = "1.10"   # Or your current version
+reqwest = { version = "0.11", features = ["blocking", "json"] } # Or your current version
+serde_json = "1.0" # Or your current version
+chrono = { version = "0.4", features = ["serde"] } # Or your current version
+dotenv = "0.15"  # Add this line
